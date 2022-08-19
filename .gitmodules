@@ -1,0 +1,3 @@
+[submodule "blaze-tutorial"]
+	path = blaze-tutorial
+	url = https://github.com/meteor/blaze-tutorial.git
